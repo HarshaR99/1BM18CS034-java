@@ -55,7 +55,7 @@ class Student
  }
  void display()
  {
- 	float f=sgpa(int[] mk,int[] c);
+ 	float f=sgpa(g,c);
  	System.out.println("The name of the student is :"+name);
  	System.out.println("The usn of the student is :"+usn);
  	System.out.println("The SGPA of the student is:"+f);
